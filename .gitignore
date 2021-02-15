@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+movies1.db
+movies2.db
+data/baseball*
+clean_movie
+clean_movie1
+new_movies.csv
